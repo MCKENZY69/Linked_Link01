@@ -5,8 +5,8 @@ while y != 10000:
     print("digite el numero 1")
     if x == 1:
         print("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
-        print("mira el video bro, tkm")
+        print("mira el video bro")
+        print("uwu")
         break
     elif x != 1:
         y += 1
-        
